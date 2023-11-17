@@ -1,0 +1,16 @@
+Giả sử một đơn vị cần quản lý nhân viên, mỗi nhân viên cần quản lý có các thuộc
+tính sau: Họ tên, Hệ số lương, phụ cấp và lương. Hãy sử dụng cấu trúc dữ liệu danh
+sách liên kết đơn để lưu trữ thông tin của các nhân viên.
+- Khai báo cấu trúc dữ liệu của bài toán
+- Nhập vào danh sách gồm các nhân viên.
+- Tính lương cho các nhân viên trong danh sách
+Biết rằng Lương = (hệ số lương + phụ cấp)* 1800
+Hệ số lương trong khoảng từ 3.0 đến 14.0
+Phụ cấp trong khoảng từ 0.2 đến 1.0
+- Hiển thị danh sách nhân viên vừa nhập.
+- Liệt kê các nhân viên có hệ số lương từ 6.0
+- Tính trung bình lương của các nhân viên trong danh sách.
+- Xuất ra thông tin của nhân viên có lương cao nhất.
+- Xuất ra lương thấp nhất.
+- Sắp xếp danh sách nhân viên giảm dần theo lương.
+- Sắp xếp danh sách nhân viên theo Họ tên.
